@@ -1,0 +1,8 @@
+1. a raiz tem pelo menos dois ponteiros
+
+2. um nó pode ser uma folha ou no interno
+	- se for folha, deve apontar para uma pagina
+	- senao, aponta para um node
+3. se tiver n-1 chaves e for inserir, split
+
+4. se tiver n/2 chaves e remover, do sometihing
